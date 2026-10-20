@@ -165,9 +165,9 @@ function App() {
   <div className="portrait-frame">
     <div className="portrait-inner">
       <img
-        src="/public/Profile.jpg"
+        src="Profile.jpg"
         alt="Hrushiprada Swain"
-        className="profile-photo"
+        className="Profile-photo"
       />
     </div>
   </div>
